@@ -17,3 +17,6 @@ Learned Sharpe ratio for portfolios and began optimizers
 
 ## Day 6:
 Watched videos about Hedge Funds, EFTs, Mutual Funds and statistical analysis of trading data. 
+
+## Day 7:
+Watched lecture videos abour company valuation and CAPM for trading data analysis
