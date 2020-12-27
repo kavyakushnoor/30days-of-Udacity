@@ -14,3 +14,6 @@ Learned Statistical analysis, incomplete data and scatter plots/ histograms
 
 ## Day 5:
 Learned Sharpe ratio for portfolios and began optimizers 
+
+## Day 6:
+Watched videos about Hedge Funds, EFTs, Mutual Funds and statistical analysis of trading data. 
