@@ -20,3 +20,6 @@ Watched videos about Hedge Funds, EFTs, Mutual Funds and statistical analysis of
 
 ## Day 7:
 Watched lecture videos abour company valuation and CAPM for trading data analysis
+
+## Day 8:
+Completed video lectures about technical analysis of stocks data and dividend split
