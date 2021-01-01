@@ -41,3 +41,17 @@ Watched video lectures about the following:
 * parametric regression models (linear & polynomial)
 * k-nearest neighbors (avg 'y' values of k nearest points to a query)
 * kernel regression (avg 'y' values of all data points)
+
+## Day 12:
+<!-- <img width="500" alt="ML APIs" src="https://user-images.githubusercontent.com/7159282/103427354-5f79b280-4b75-11eb-86cf-ea51449830df.png"> -->
+* Training & testing data
+* Usage of ML libraries in python
+* Example of a class that predicts based on chosen library
+
+## Day 13:
+* Assessing a ML model using metrics:
+    1. RMSE
+    2. Correlation
+* Ensemble learners and how to build them
+* Bagging and boosting
+* Reinforcement Learning
