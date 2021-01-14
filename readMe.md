@@ -55,3 +55,35 @@ Watched video lectures about the following:
 * Ensemble learners and how to build them
 * Bagging and boosting
 * Reinforcement Learning
+
+## Day 14:
+* Made a simple linear regression model to predict a 30-day amazon stock prices 
+* Used a single variable linear regression
+* Got and cleaned data from quandl API using python
+
+## Day 15:
+* Got and cleaned 5 stocks data from quandl using python API
+* Chose a date range for analysis
+* Cleaned the data and created a pandas dataframe for the portfolio
+
+## Day 16:
+* Did literature review and saw other code available online in various hackathons tackling the same issue
+* Shortlisted and analyzed code sets that approach similar problems using Machine Learning
+
+## Day 17:
+* Created a problem statement 
+* Sketched out an algorithm on how to approach my model
+
+## Day 18:
+* Normalized the stocks in my portfolio of 5 stocks
+* Allocated a hypothetical investment value
+* Assigned the value to the normalized protfolio
+* Summed the values to get a day-end value of the portfolio 
+
+## Day 19:
+* Decided the variable indicators to include in the multi-variate linear regression equation:
+    * Bollinger bands
+    * Momentum
+    * Simple Moving Average
+    * P/E ratio
+
