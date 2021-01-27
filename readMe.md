@@ -87,3 +87,6 @@ Watched video lectures about the following:
     * Simple Moving Average
     * P/E ratio
 
+## Day 20:
+* Documented my capstone proposal and suggested approach for final analysis 
+* Submitted document containing roadmap for prediction in the online forum
