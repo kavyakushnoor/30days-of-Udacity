@@ -90,3 +90,7 @@ Watched video lectures about the following:
 ## Day 20:
 * Documented my capstone proposal and suggested approach for final analysis 
 * Submitted document containing roadmap for prediction in the online forum
+
+## Day 21:
+* Received feedback regarding proposal submission
+* Sketched out plan to rewrite the Jupyter Notebook
