@@ -94,3 +94,8 @@ Watched video lectures about the following:
 ## Day 21:
 * Received feedback regarding proposal submission
 * Sketched out plan to rewrite the Jupyter Notebook
+
+## Day 22:
+* Reviewed online literature to add in new proposal submission
+* Cleaned code and rewrote explanations in Jupyter Notebook
+
