@@ -99,3 +99,8 @@ Watched video lectures about the following:
 * Reviewed online literature to add in new proposal submission
 * Cleaned code and rewrote explanations in Jupyter Notebook
 
+## Day 23:
+* Added a new variable in the dataset
+* Wrote the algorithm and code to generate the new variable values
+* Planned the algorithm for benchmark model using machine Learning
+
