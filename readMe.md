@@ -104,3 +104,7 @@ Watched video lectures about the following:
 * Wrote the algorithm and code to generate the new variable values
 * Planned the algorithm for benchmark model using machine Learning
 
+## Day 24:
+* Figured out computing rolling mean, rolling std. dev and Bollinger bands for the portfolio
+* Pulled and cleaned S&P 500 data for the given duration to perform univariate regression analysis
+
