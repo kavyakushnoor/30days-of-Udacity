@@ -108,3 +108,6 @@ Watched video lectures about the following:
 * Figured out computing rolling mean, rolling std. dev and Bollinger bands for the portfolio
 * Pulled and cleaned S&P 500 data for the given duration to perform univariate regression analysis
 
+## Day 25:
+* Conducted univariate regression analysis using market returns data and portfolio returns data as varaibles
+* Formatted Jupyter Notebooks and cleaned code to make it look presentable
