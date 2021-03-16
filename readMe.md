@@ -111,3 +111,8 @@ Watched video lectures about the following:
 ## Day 25:
 * Conducted univariate regression analysis using market returns data and portfolio returns data as varaibles
 * Formatted Jupyter Notebooks and cleaned code to make it look presentable
+
+## Day 26:
+* Added text to the code in the Jupyter Notebooks above
+* Formatted and combined the code and model in Jupyter Notebook
+* Combined all the csv files containing data that are used in the code
