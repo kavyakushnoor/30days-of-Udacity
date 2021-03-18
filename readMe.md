@@ -116,3 +116,9 @@ Watched video lectures about the following:
 * Added text to the code in the Jupyter Notebooks above
 * Formatted and combined the code and model in Jupyter Notebook
 * Combined all the csv files containing data that are used in the code
+
+## Day 27:
+* Used 3 types of regressors and analyzed models:
+- Linear Regressor
+- Gradient Boosting Regressor
+- Random Forest Regressor 
