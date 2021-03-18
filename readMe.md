@@ -119,6 +119,6 @@ Watched video lectures about the following:
 
 ## Day 27:
 * Used 3 types of regressors and analyzed models:
-- Linear Regressor
-- Gradient Boosting Regressor
-- Random Forest Regressor 
+    - Linear Regressor
+    - Gradient Boosting Regressor
+    - Random Forest Regressor 
