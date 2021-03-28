@@ -122,3 +122,6 @@ Watched video lectures about the following:
     - Linear Regressor
     - Gradient Boosting Regressor
     - Random Forest Regressor 
+
+## Day 28:
+* Worked on exploratory data analysis
