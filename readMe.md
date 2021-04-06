@@ -126,3 +126,4 @@ Watched video lectures about the following:
 ## Day 28:
 * Worked on exploratory data analysis
 * Checked feature importance for each variable used in the models
+* Worked on Principal Component Analysis
