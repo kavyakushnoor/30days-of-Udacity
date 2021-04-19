@@ -127,3 +127,6 @@ Watched video lectures about the following:
 * Worked on exploratory data analysis
 * Checked feature importance for each variable used in the models
 * Worked on Principal Component Analysis
+
+## Day 28:
+* Added text to the code in the Jupyter Notebooks above
