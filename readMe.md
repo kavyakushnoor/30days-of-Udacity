@@ -130,3 +130,4 @@ Watched video lectures about the following:
 
 ## Day 28:
 * Added text to the code in the Jupyter Notebooks above
+* Formatted and explained each variable with text and code
