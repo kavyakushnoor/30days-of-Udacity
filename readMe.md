@@ -128,6 +128,6 @@ Watched video lectures about the following:
 * Checked feature importance for each variable used in the models
 * Worked on Principal Component Analysis
 
-## Day 28:
+## Day 29:
 * Added text to the code in the Jupyter Notebooks above
 * Formatted and explained each variable with text and code
