@@ -131,3 +131,8 @@ Watched video lectures about the following:
 ## Day 29:
 * Added text to the code in the Jupyter Notebooks above
 * Formatted and explained each variable with text and code
+
+## Day 30:
+* Ran final analysis 
+* Built 3 different models to beat the benchmark model
+* Wrote final report and submitted it along with other files
