@@ -1,4 +1,4 @@
-# 30 Days of Udacity
+# 30 Days of Udacity - ML Nanodegree
 
 ## Day 1:
 Started Machine Learning for Trading Course
