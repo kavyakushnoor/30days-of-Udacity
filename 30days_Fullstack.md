@@ -3,10 +3,10 @@
 ## Day 1:
 - Started Postgres course
 - Learned about netwrok transactions/connection in a fullstack framework
-      * TCP/IP protocol
-      * Client-server model 
-      * Transactions and sessions
-      * Deep dive into 2 postgres clients (psql & psycopg2)
+    - TCP/IP protocol
+    - Client-server model 
+    - Transactions and sessions
+    - Deep dive into 2 postgres clients (psql & psycopg2)
 
 ## Day 2:
 Installed Postgres and practiced commands
