@@ -16,3 +16,6 @@ Installed Postgres and practiced commands
 - Installed DBAPI psycopg2
 - Wrote scripts that connects psql with python
 - Practiced psycopg2 commands
+
+## Day 4:
+Introduction to sqlAlchemy and its abstraction layers and concepts 
