@@ -1,4 +1,4 @@
-# 30 Days of Udacity - Fullstack Nanodegree
+# 30 Days of Udacity - Fullstack
 
 ## Day 1:
 - Started Postgres course
@@ -19,3 +19,9 @@ Installed Postgres and practiced commands
 
 ## Day 4:
 Introduction to sqlAlchemy and its abstraction layers and concepts 
+
+## Day 5:
+Write SQL using Python expressions
+Write Python objects mapped to db tables, generating sql expressions
+Manipulate models using sqlAlchemy
+
